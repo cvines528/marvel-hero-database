@@ -1,0 +1,12 @@
+.container{
+    text-align: center;
+}
+.directory {
+    display: flex;
+}
+.heros-directory {
+    width: 50%;
+}
+.villians-directory {
+    width: 50%;
+}
