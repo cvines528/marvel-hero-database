@@ -1,6 +1,10 @@
 .container{
     text-align: center;
 }
+.logo{
+  height: 500px;
+  width: 1000px;
+}
 .directory {
     display: flex;
 }
