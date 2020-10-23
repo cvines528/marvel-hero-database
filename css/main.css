@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.heroes-team .card .btn {
+  background-color: #ed1d24;
+  border: none;
+  opacity: 0.7;
+  text-transform: uppercase;
+  font-size: 1rem;
+  padding: 10px;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+
+.villain-team .card .btn {
+  background-color: #ed1d24;
+  border: none;
+  opacity: 0.7;
+  text-transform: uppercase;
+  font-size: 1rem;
+  padding: 10px;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+
+.container .headerbox h1 {
+  font-family: "Bebas Neue", cursive;
+  font-size: 2.5rem;
+  color: #ed1d24;
+}
+
+.directory div div h1 {
+  font-family: "Bebas Neue", cursive;
+  font-size: 3.5rem;
+  padding-top: 50px;
+}
+.directory div div .btn {
+  margin-top: 200px;
+  margin-left: 60px;
+  text-transform: uppercase;
+  background-color: #ed1d24;
+  border-color: #ed1d24;
+}
+
+/*# sourceMappingURL=main.css.map */
